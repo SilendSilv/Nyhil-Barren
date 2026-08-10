@@ -17,3 +17,9 @@ desktop.ini
 # Icon theme cache
 icon-theme.cache
 *.cache
+
+# To Be Worked Folder
+toBeWorked/*
+
+# Small script to automate some things
+stripit.sh
