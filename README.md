@@ -13,7 +13,7 @@ Sadly- due to me not owning a good (or in this case bad) Camera or Phone Camera 
 however i try to keep the essence of the Amateur feeling by.. being a genuine Amateur, once again keep in mind that this is a passion project for me, if anyone wants to contribute
 or add to it i would be glad as long as we keep something in mind: the spirit of Black Metal is to be ugly, abrasive, desolate and quite saddening.
 
-Every file is upscaled/downscaled from a fixed resolution, this isnt because im genuinelly that lazy or unknowledgeable, its like mentioned before- ment to be abrasive,
+Every file is upscaled/downscaled from a fixed resolution, this isnt because im genuinely that lazy or unknowledgeable, its like mentioned before- ment to be abrasive,
 losing details as we scale down, and retaining blur/noise as we scale up, this is by design.
 
 Includes: 

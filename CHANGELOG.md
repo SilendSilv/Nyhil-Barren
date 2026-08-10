@@ -1,3 +1,8 @@
+V0.0.0.3 pre-alpha
+- Added a few more icons (didnt count)
+- finished 22x22 status from papirus
+- made it extra grimey
+
 V0.0.0.2 pre-alpha
 - Added 2 more icons in Nyhil-Barren
 - fixed some typos in README.md (i warned ya)
