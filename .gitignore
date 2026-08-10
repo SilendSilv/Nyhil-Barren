@@ -1,0 +1,19 @@
+# Aseprite temp/backup/session files
+*.aseprite-backup
+*.aseprite-session
+*.bak
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor junk
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Icon theme cache
+icon-theme.cache
+*.cache
