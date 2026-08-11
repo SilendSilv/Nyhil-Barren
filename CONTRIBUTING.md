@@ -33,7 +33,7 @@ its only a red herring, there is a difference between "made to look bad" and "sc
 3. Respectful Behaviour, this project is Amateur-like and unprofessional by design, however where i'm not unprofessional
 is in the treatment of other humans, one insensitive joke wont get you banned but it will give you a warning
 but things like grooming, harassment, discrimination against ANY race/ethnicity/religion will have you kicked
-off the team and you assets ceased, we cant undo the commits, but we can undo the art.
+off the team and your assets ceased, we cant undo the commits, but we can undo the art.
 
 4. Follow the Nyhil-Barren/ Folder to its core, all the sizes are fixed, .svg vector magic is way too clean, every picture has to have
 a size for every sizes this icon-pack offers, no more, no less.

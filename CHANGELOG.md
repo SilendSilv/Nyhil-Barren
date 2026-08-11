@@ -1,3 +1,10 @@
+V0.0.0.4 pre-aplha
+- No icons added
+- Security added
+- CONTRIBUTING.md added (also a typo fixed.. shh)
+- CODE_OF_CONDUCT.md added
+- Issues and Feature Suggestion templates added
+
 V0.0.0.3 pre-alpha
 - Added a few more icons (didnt count)
 - finished 22x22 status from papirus
