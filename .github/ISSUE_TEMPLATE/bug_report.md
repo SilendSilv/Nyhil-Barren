@@ -10,7 +10,7 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 E.g:
-"gtk-error-glyph.png doesnt render on error"
+"gtk-error-glyph.png doesn't render on error"
 
 **To Reproduce**
 Steps to reproduce the behavior:

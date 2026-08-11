@@ -1,3 +1,6 @@
+V0.0.0.4-1 pre-alpha
+- Changed more typos across bug_report, CONTRIBUTING, README, SECURITY
+
 V0.0.0.4 pre-aplha
 - No icons added
 - Security added
