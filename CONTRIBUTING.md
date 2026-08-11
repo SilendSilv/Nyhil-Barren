@@ -1,5 +1,5 @@
 The contribution system here is simple, if you want to be a contributor
-give me a semi-formal Email <SilendSilv@protonmail.com> and I will look into it.
+give me a semi-formal Email <SilendSilv [at] protonmail [dot] com> and I will look into it.
 
 Rule of Thumb, if I don't answer with a no or yes after 10 days then expect it to be a no.. look into
 latest commits, if I'm not committing.. then the project probably died, however if I am

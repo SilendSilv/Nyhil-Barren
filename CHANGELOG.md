@@ -1,3 +1,6 @@
+V0.0.0.4-3 pre-alpha
+- Obfuscated my email in a few places to prevent Bots from sending me crypto ads
+
 V0.0.0.4-1 pre-alpha
 - Changed more typos across bug_report, CONTRIBUTING, README, SECURITY
 
